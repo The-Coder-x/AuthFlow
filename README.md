@@ -2,7 +2,7 @@
 
 ## Project Dir Structure
 
-   
+```
 ├── .gitignore
 ├── README.md
 ├── eslint.config.js
@@ -36,7 +36,7 @@
 ├── tsconfig.json
 ├── tsconfig.node.json
 └── vite.config.ts
-
+```
 ## Steps To Run 
 
 1. Install Dependencies
@@ -50,4 +50,5 @@ npm install
 npm run dev
 
 ```
+
 
